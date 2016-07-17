@@ -1,0 +1,23 @@
+{
+  "name": "perillamint",
+  "version": "0.0.1",
+  "description": "HTCPCP(RFC-2324) compliant Cold-brew brewer firmware for Raspberry Pi SBC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perillamint/iCoffeePot.git"
+  },
+  "keywords": [
+    "HTCPCP",
+    "coffee",
+    "cold-brew"
+  ],
+  "author": "perillamint",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/perillamint/iCoffeePot/issues"
+  }
+}
